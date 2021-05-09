@@ -2,6 +2,6 @@
 Tutorial for react to run this project<br>
 <ol>
 <li>Clone this repo.</li>
-<li>Run npm install.</li>
-<li>Run npm start.</li>
+<li>Run <em>npm install.</em></li>
+<li>Run <em>npm start.</em></li>
 </ol>
